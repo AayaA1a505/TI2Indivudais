@@ -1,12 +1,4 @@
-CAMINHO PARA EXERCICIO INDIVIDUAL 1
+CAMINHO PARA EXERCICIO INDIVIDUAL
 
-TI2EX1
-  |
-  |
-  |------src
-  |       |
- ...      |
-          |------ti2pkg
-          |        |
-         ...       |
-                   |------Somar2numeros.java    <----------------
+1 TI2EX1 / src / ti2pkg / Somar2numeros.java
+                   
